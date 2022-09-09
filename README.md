@@ -37,7 +37,7 @@
 >## This is a `Responsive Design`
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://pensil-landing-page-brijesh8128.netlify.app/"Pensil--Landing--Page--Netlify")
+># [LIVE [HOSTED] PROJECT LINK](https://pensil-landing-page-brijesh8128.netlify.app/)
 
 >![Screenshot](./screenshots/screenshot-1.png)
 >![Screenshot](./screenshots/screenshot-2.png)
