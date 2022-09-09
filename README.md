@@ -37,7 +37,7 @@
 >## This is a `Responsive Design`
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-<!-- ># [LIVE [HOSTED] PROJECT LINK](https://bill-splitter-hackathon-project-brijesh8128.vercel.app/ "Bill--Splitter--Hackathon--Project--Vercel") -->
+># [LIVE [HOSTED] PROJECT LINK](https://pensil-landing-page-brijesh8128.netlify.app/"Pensil--Landing--Page--Netlify")
 
 >![Screenshot](./screenshots/screenshot-1.png)
 >![Screenshot](./screenshots/screenshot-2.png)
